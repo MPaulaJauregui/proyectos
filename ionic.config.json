@@ -1,0 +1,8 @@
+{
+  "name": "myAp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "be25fdf3"
+}
